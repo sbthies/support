@@ -22,6 +22,7 @@
 *   008   03/07/16 H Kaczmarczyk Added subtype, trigger, interface file name as messages to msgview
 *   009   05/15/17 D Olszewski  Logic to add the transcation ID for Credits from the Debit trans (omit Pharm.)
 *   010   06/13/18  H Kaczmarczyk Removed coding excluding Pharm. from adding transaction id to credits
+*   GIT HUB 
  *  ---------------------------------------------------------------------------------------------
 */
 
